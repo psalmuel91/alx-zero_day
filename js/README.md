@@ -1,1 +1,1 @@
-js files resides here
+js files only resides here

@@ -1,1 +1,1 @@
-bash files resides here
+bash files only resides here
